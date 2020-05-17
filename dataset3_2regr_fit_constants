@@ -1,0 +1,103 @@
+Gas Name,a1,b1,a2,b2,MAE,MRE,AIC
+Chlorotrifluoromethane+Trichlorofluoromethane,-448.4,0.0,-427.5,0.0,0.0,0.0,-5.333333333333334
+Chlorotrifluoromethane+Chlorodifluoromethane,-275.3,0.0,-265.9,0.0,0.0,0.0,-5.333333333333334
+Chlorotrifluoromethane+Trifluoromethane,-163.0,0.0,-170.4,0.0,0.0,0.0,-5.333333333333334
+Dichlorodifluoromethane+Trichlorofluoromethane,-446.4,0.0,-432.2,0.0,0.0,0.0,-5.333333333333334
+Dichlorodifluoromethane+Trifluoromethane,-297.7,0.0,-297.25,0.0,2.2999999999999923,0.007738637076229865,-27.869999999999898
+Trichlorofluoromethane+Trifluoromethane,-247.6,0.0,-239.0,0.0,0.0,0.0,-5.333333333333334
+Tetrachloromethane+1-Propanol,-1600.0,0.0,3197.249999999992,-1423971.3374999973,0.0,0.0,-12.0
+Tetrafluoromethane+Hexafluoroethane,-120.0,0.0,-70.0,0.0,0.0,0.0,-5.333333333333334
+Tetrafluoromethane+Octafluoropropane,-179.0,0.0,-113.0,0.0,0.0,0.0,-5.333333333333334
+Tetrafluoromethane+Decafluorobutane,-224.0,0.0,-141.0,0.0,0.0,0.0,-5.333333333333334
+Tetrafluoromethane+Butane,nan,nan,nan,nan,nan,nan,nan
+Tetrafluoromethane+Dodecafluoropentane,-259.0,0.0,-173.0,0.0,0.0,0.0,-5.333333333333334
+Tetrafluoromethane+2 2-Dimethylpropane,nan,nan,nan,nan,nan,nan,nan
+Tetrafluoromethane+Tetradecafluorohexane,-277.0,0.0,-196.0,0.0,0.0,0.0,-5.333333333333334
+Tetrafluoromethane+Hexane,nan,nan,nan,nan,nan,nan,nan
+Chlorodifluoromethane+Trifluoromethane,-261.0,0.0,-252.8,0.0,0.0,0.0,-5.333333333333334
+Chlorodifluoromethane+1 1-Dichloro-2 2 2-trifluoroethane,-825.0,0.0,-654.0,0.0,0.0,0.0,-5.333333333333334
+Trichloromethane+Methane,nan,nan,nan,nan,nan,nan,nan
+Trichloromethane+Ethene,nan,nan,nan,nan,nan,nan,nan
+Trichloromethane+Methyl methanoate,-864.0,0.0,-723.0,0.0,0.0,0.0,-5.333333333333334
+Trichloromethane+Diethylamine,nan,nan,nan,nan,nan,nan,nan
+Trichloromethane+Hexane,-1230.0,0.0,1947.9844961240324,-1023610.5426356595,3.0316490059097606e-13,2.852785960568096e-16,-12.0
+Dichloromethane+Chloroethane,-590.0,0.0,1065.6799999999992,-511355.3759999997,0.0,0.0,-12.0
+Difluoromethane+Pentafluoroethane,-225.2,0.0,319.6784999999999,-183171.31227499997,7.579122514774402e-14,4.1178309112288724e-16,-12.0
+Difluoromethane+1 1 1 2-Tetrafluoroethane,-255.5,0.0,373.17149999999947,-212162.4552249998,3.789561257387201e-14,1.870792223916692e-16,-12.0
+Bromomethane+Chloromethane,-484.1,0.0,621.4721854304587,-323630.3014569521,1.8947806286936004e-14,4.403394442699513e-17,-12.0
+Bromomethane+Bromoethane,-1047.0,0.0,-881.0,0.0,0.0,0.0,-5.333333333333334
+Bromomethane+Chloroethane,-436.0,0.0,-397.0,0.0,0.0,0.0,-5.333333333333334
+Bromomethane+Pentane,nan,nan,nan,nan,nan,nan,nan
+Nitromethane+Propanone,-3830.0,0.0,-2679.0,0.0,0.0,0.0,-5.333333333333334
+Nitromethane+Benzene,nan,nan,nan,nan,nan,nan,nan
+Methane+Hexafluoroethane,nan,nan,nan,nan,nan,nan,nan
+Methane+Ethanol,-122.0,0.0,213.2980000000005,-103504.29870000017,0.0,0.0,-12.0
+Methane+Propene,-124.9,0.0,-64.3,0.0,0.0,0.0,-5.333333333333334
+Methane+Octafluorocyclobutane,-167.1,0.0,128.2999999999995,-83699.99999999984,0.0,0.0,-12.0
+Methane+Decafluorobutane,nan,nan,nan,nan,nan,nan,nan
+Methane+2-Methylpropane,nan,nan,nan,nan,nan,nan,nan
+Methane+1-Butanol,nan,nan,nan,nan,nan,nan,nan
+Methane+Diethyl ether,nan,nan,nan,nan,nan,nan,nan
+Methane+Dodecafluoropentane,nan,nan,nan,nan,nan,nan,nan
+Methane+2-Methylbutane,-220.0,0.0,783.5279999999998,-292989.84959999996,7.579122514774402e-14,4.985246251087465e-16,-12.0
+Methane+Tetradecafluorohexane,nan,nan,nan,nan,nan,nan,nan
+Methane+2-Methylpentane,-317.0,0.0,-144.0,0.0,0.0,0.0,-5.333333333333334
+Methane+2 2-Dimethylbutane,-216.0,0.0,-154.0,0.0,0.0,0.0,-5.333333333333334
+Methane+Toluene,-446.0,0.0,710.2463768115952,-279094.5507246379,0.0,0.0,-12.0
+Methane+Nonane,-620.0,0.0,-188.5263157894745,-75231.86315789452,0.0,0.0,-12.0
+Methane+1-Methylnaphthalene,-205.0,0.0,346.965,-196274.01474999994,3.789561257387201e-14,3.3799714662079134e-16,-12.0
+Methane+2 6 10 15 19 23-Hexamethyltetracosane,-48.0,0.0,43.0,0.0,0.0,0.0,-5.333333333333334
+Hexafluoroethane+Ethane,-145.0,0.0,-90.0,0.0,0.0,0.0,-5.333333333333334
+Hexafluoroethane+Octafluoropropane,-299.0,0.0,-192.0,0.0,0.0,0.0,-5.333333333333334
+Hexafluoroethane+Decafluorobutane,-388.0,0.0,-254.0,0.0,0.0,0.0,-5.333333333333334
+Hexafluoroethane+Butane,nan,nan,nan,nan,nan,nan,nan
+Hexafluoroethane+Dodecafluoropentane,-482.0,0.0,-314.0,0.0,0.0,0.0,-5.333333333333334
+Hexafluoroethane+Pentane,nan,nan,nan,nan,nan,nan,nan
+Hexafluoroethane+Tetradecafluorohexane,-536.0,0.0,-354.0,0.0,0.0,0.0,-5.333333333333334
+1 1 1 2-Tetrafluoroethane+1 1-Difluoroethane,-330.1,0.0,-285.0,0.0,0.0,0.0,-5.333333333333334
+Acetonitrile+Cyclohexane,nan,nan,nan,nan,nan,nan,nan
+Ethene+Ethane,nan,nan,nan,nan,nan,nan,nan
+Ethene+Ethanol,nan,nan,nan,nan,nan,nan,nan
+Ethene+Propene,-220.9,0.0,-117.8,0.0,0.0,0.0,-5.333333333333334
+Ethene+Benzene,nan,nan,nan,nan,nan,nan,nan
+Ethene+1-Methylnaphthalene,-571.0,0.0,927.5979999999995,-521018.2936999997,1.5158245029548803e-13,5.214429518178401e-16,-12.0
+Ethene+Bicyclohexyl,-607.0,0.0,860.5208333333333,-495229.35729166656,0.0,0.0,-12.0
+Ethene+Diphenylmethane,-645.0,0.0,586.2263636363642,-394025.29486363666,7.579122514774402e-14,2.204317842189162e-16,-12.0
+Ethene+Hexadecane,-735.0,0.0,972.8209999999992,-595959.2811499996,0.0,0.0,-12.0
+Bromoethane+Diethyl ether,-1356.0,0.0,-1160.0,0.0,0.0,0.0,-5.333333333333334
+Bromoethane+Pentane,nan,nan,nan,nan,nan,nan,nan
+Chloroethane+1-Chloropropane,-803.0,0.0,742.0599999999995,-474829.9919999998,0.0,0.0,-12.0
+Chloroethane+2-Chloro-2-methylpropane,-712.0,0.0,-591.0,0.0,0.0,0.0,-5.333333333333334
+Ethane+Ethanol,-276.0,0.0,-60.73999999999978,-45001.86900000007,0.0,0.0,-12.0
+Ethane+Decafluorobutane,nan,nan,nan,nan,nan,nan,nan
+Ethane+Diethyl ether,nan,nan,nan,nan,nan,nan,nan
+Ethane+1-Butanol,nan,nan,nan,nan,nan,nan,nan
+Ethane+Octane,-354.0,0.0,-331.0,0.0,0.0,0.0,-5.333333333333334
+Ethane+1-Methylnaphthalene,-672.0,0.0,792.8199999999995,-499606.5829999997,0.0,0.0,-12.0
+Ethane+Bicyclohexyl,-777.0,0.0,1072.4975,-619744.1671249999,0.0,0.0,-12.0
+Ethane+Diphenylmethane,-734.0,0.0,643.4490909090914,-442077.16009090934,3.789561257387201e-14,1.1048283549233822e-16,-12.0
+Ethane+Hexadecane,-928.0,0.0,1246.192999999999,-752978.4929499995,0.0,0.0,-12.0
+Ethane+2 6 10 15 19 23-Hexamethyltetracosane,nan,nan,nan,nan,nan,nan,nan
+Ethanol+Pentylamine,-1112.0,0.0,-1138.0,0.0,0.0,0.0,-5.333333333333334
+Octafluoropropane+Propane,-311.0,0.0,-212.0,0.0,0.0,0.0,-5.333333333333334
+Propene+Butane,nan,nan,nan,nan,nan,nan,nan
+Propene+2-Methylpropane,nan,nan,nan,nan,nan,nan,nan
+Propanone+Methyl ethanoate,nan,nan,nan,nan,nan,nan,nan
+Propanone+Hexane,nan,nan,nan,nan,nan,nan,nan
+Propane+Heptane,-537.0,0.0,1245.4399999999998,-699729.4079999999,0.0,0.0,-12.0
+Propane+Octane,-541.0,0.0,38.93333333332998,-225992.853333332,7.579122514774402e-14,1.4861253085533592e-16,-12.0
+Decafluorobutane+Dodecafluoropentane,nan,nan,nan,nan,nan,nan,nan
+Decafluorobutane+Tetradecafluorohexane,nan,nan,nan,nan,nan,nan,nan
+Decafluorobutane+Hexane,nan,nan,nan,nan,nan,nan,nan
+Butanone+Benzene,nan,nan,nan,nan,nan,nan,nan
+Butane+Octane,-735.0,0.0,1428.5185185185178,-879503.8518518516,0.0,0.0,-12.0
+Diethylamine+Cyclohexane,nan,nan,nan,nan,nan,nan,nan
+Pentane+Tetradecafluorohexane,-1184.0,0.0,1205.1822125813444,-710071.6060737525,7.579122514774402e-14,8.468293312597097e-17,-12.0
+Pentane+Heptane,-871.0,0.0,1201.6799999999996,-816350.9759999998,1.5158245029548803e-13,1.900128831007551e-16,-12.0
+Pentane+Octane,-953.0,0.0,-895.0,0.0,0.0,0.0,-5.333333333333334
+Tetradecafluorohexane+Hexane,-1297.0,0.0,-871.0,0.0,0.0,0.0,-5.333333333333334
+Bromobenzene+Benzene,nan,nan,nan,nan,nan,nan,nan
+Benzene+Octane,-666.0,0.0,1699.5400000000013,-1143139.8280000007,0.0,0.0,-12.0
+Benzene+1 7 7-Trimethylbicyclo[2.2.1]-2-heptanone,nan,nan,nan,nan,nan,nan,nan
+Hexane+Octane,-1173.0,0.0,-1105.0,0.0,0.0,0.0,-5.333333333333334
+Heptane+Octane,-1407.0,0.0,-1322.0,0.0,0.0,0.0,-5.333333333333334
